@@ -6,7 +6,7 @@ Department of Electrical and Computer Engineering
 University of Central Florida
 
 📄 Access the paper, poster and presentation materials here: 
-- Paper:
+- Paper: 
 - Presentation: 
 - Poster: 
 
