@@ -6,7 +6,7 @@ Department of Electrical and Computer Engineering
 University of Central Florida
 
 📄 Access the paper, poster and presentation materials here: 
-- Paper: 
+- Paper: https://github.com/debamita-ghosh/ICML-2026-Poster-Materials/blob/main/Camera-Ready_ICML_Online_Robust_RL_with_General_Functional_Approximation_with_BE_Dimension.pdf 
 - Presentation: 
 - Poster: 
 
