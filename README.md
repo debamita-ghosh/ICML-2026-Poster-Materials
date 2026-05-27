@@ -1,4 +1,4 @@
-**Title:** **Online Robust Reinforcement Learning with General Function Approximation**.
+## Title: Online Robust Reinforcement Learning with General Function Approximation
 
 **Authors**  
 Debamita Ghosh; George K. Atia; Yue Wang  
